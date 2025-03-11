@@ -1,0 +1,5 @@
+# AN-AI-BASED-MEDICAL-CHATBOT-FOR-INFECTIOUS-DISEASE-PREDICTION
+
+from django.contrib import admin
+
+# Register your models here.
